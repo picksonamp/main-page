@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/picksonamp/main-page/static/css/main.613ecd01.css",
+    "main.js": "/picksonamp/main-page/static/js/main.fffb7937.js",
+    "static/js/453.2a0906f0.chunk.js": "/picksonamp/main-page/static/js/453.2a0906f0.chunk.js",
+    "static/media/weeks.png": "/picksonamp/main-page/static/media/weeks.a704672a813b7cf8a6a5.png",
+    "static/media/wd.png": "/picksonamp/main-page/static/media/wd.861cfc707a5992166096.png",
+    "static/media/dice.png": "/picksonamp/main-page/static/media/dice.8732f5f707a741dad233.png",
+    "static/media/react-logo.jpg": "/picksonamp/main-page/static/media/react-logo.3ec9878230cf0dfc2207.jpg",
+    "static/media/xo-game-logo.png": "/picksonamp/main-page/static/media/xo-game-logo.5caa27f74880f06cf286.png",
+    "static/media/js-logo.jpg": "/picksonamp/main-page/static/media/js-logo.ef945ebac07c720ad044.jpg",
+    "static/media/counter.jpg": "/picksonamp/main-page/static/media/counter.727c8ea7255cb6b4a379.jpg",
+    "static/media/logo.svg": "/picksonamp/main-page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/picksonamp/main-page/index.html",
+    "main.613ecd01.css.map": "/picksonamp/main-page/static/css/main.613ecd01.css.map",
+    "main.fffb7937.js.map": "/picksonamp/main-page/static/js/main.fffb7937.js.map",
+    "453.2a0906f0.chunk.js.map": "/picksonamp/main-page/static/js/453.2a0906f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.613ecd01.css",
+    "static/js/main.fffb7937.js"
+  ]
+}
